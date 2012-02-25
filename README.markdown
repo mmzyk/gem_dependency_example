@@ -6,10 +6,16 @@ to install gems on the user's system based on the Ruby version
 the user has installed.
 
 The gem_dep_example folder has the example with the proper
-layout and annotated code. The other folders are the 
+layout and annotated code. 
+
+The other folders are the 
 gems that will be loaded by gem_dep_example, the choice
 of which depends if the user has Ruby 1.9 installed
 or not.
+
+The code is based on the example found in the
+Ruby Programming/Ruby Gems wiki book.
+http://en.wikibooks.org/wiki/Ruby_Programming/RubyGems
 
 License
 =======
